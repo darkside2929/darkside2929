@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @darkside2929
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Java
+- 💞
+- 📫 How to reach me  mthangaraj582@gmail.com
+- 
 
 <!---
 darkside2929/darkside2929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
